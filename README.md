@@ -99,56 +99,50 @@
 
 # İçerikler
 
-```JSON
-{
-
-Genel {
- Me
- Avatar  
- Çek 
- Git
- Snipe
- Kilit
- Rol-Al
- Rol-Ver
- Me
- Nuke
- Rol-İnfo
- Say
- Mod-Log
- };
-Moderasyon {
- Ban
- Unban
- Jail
- Unjail
- Mute
- Unmute
- Vmute
- Unvmute
- Sicil
- Cezapuanı
- Cezapuanı-Sıfırla
- };
-Kayıt {
- Erkek
- Kadın
- Kayıtsız
- İsim
- İsimler
- Kayıtlarım
- Top Teyit
- };
-Stat {
- Me
- Top
- Top-Text
- Top-Voice
- Stat-Sıfırla
- };
-
-}
-```
+## • Genel {
+  - [x] Me
+  - [x] Avatar  
+  - [x] Çek 
+  - [x] Git
+  - [x] Snipe
+  - [x] Kilit
+  - [x] Rol-Al
+  - [x] Rol-Ver
+  - [x] Me
+  - [x] Nuke
+  - [x] Rol-İnfo
+  - [x] Say
+  - [x] Mod-Log
+## };
+## • Moderasyon {
+  - [x] Ban
+  - [x] Unban
+  - [x] Jail
+  - [x] Unjail
+  - [x] Mute
+  - [x] Unmute
+  - [x] Vmute
+  - [x] Unvmute
+  - [x] Sicil
+  - [x] Cezapuanı
+  - [x] Cezapuanı-Sıfırla
+## };
+## • Kayıt {
+  - [x] Erkek
+  - [x] Kadın
+  - [x] Kayıtsız
+  - [x] İsim
+  - [x] İsimler
+  - [x] Kayıtlarım
+  - [x] Top Teyit
+## };
+## • Stat {
+  - [x] Me
+  - [x] Top
+  - [x] Top-Text
+  - [x] Top-Voice
+  - [x] Stat-Sıfırla
+## };
 
 ### Teşekkürler 🧡
  - [Serandia Squad](https://discord.com/invite/serendia) ve [CodeEming Ailesine](https://discord.gg/fYm5Pj97js) hatalarımda yardım edip zaman harcadıkları için teşekkür ederim.
