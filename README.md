@@ -100,6 +100,8 @@
 # İçerikler
 
 ```JSON
+{
+
 Genel {
  Me
  Avatar  
@@ -144,6 +146,8 @@ Stat {
  Top-Voice
  Stat-Sıfırla
  };
+
+}
 ```
 
 ### Teşekkürler 🧡
