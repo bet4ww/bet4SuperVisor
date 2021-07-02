@@ -1,7 +1,7 @@
 # Discord SuperVisor Bot
 
 
- - [Discord SuperVisor Bot](https://github.com/beT4w/bet4SuperVisor)
+ - [Discord SuperVisor Bot](https://github.com/beT4ww/bet4SuperVisor)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
@@ -25,7 +25,7 @@
 * [Açmak İçin Tıkla](https://discord.com/developers/applications)
 <img src="https://cdn.discordapp.com/attachments/818953120452575322/851116463166849054/3P4KKB.png"/>
 
-***Tadaaa 🎉. Artık register botun hazır. Dilediğin gibi kullanabilirsin.***
+***Tadaaa 🎉. Artık supervisor botun hazır. Dilediğin gibi kullanabilirsin.***
 
 
 # Neden Yayınlandı?
